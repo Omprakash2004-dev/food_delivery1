@@ -1,0 +1,7 @@
+{
+  "name": "Copy of CraveWave - AI Food Delivery",
+  "description": "A comprehensive full-stack style food delivery application with User, Restaurant, Admin, and Delivery Partner dashboards. Features real-time order tracking, AI food recommendations, and analytics.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
